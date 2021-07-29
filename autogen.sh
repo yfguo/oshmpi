@@ -3,6 +3,8 @@
 # (C) 2018 by Argonne National Laboratory.
 #     See COPYRIGHT in top-level directory.
 
+set +e
+
 ##########################################
 ## Generic Utility Functions
 ##########################################
